@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @sardorkhafizov
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me sardor_orazov ig
-
-<!---
-sardorkhafizov/sardorkhafizov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👊 What's up? I'm Sardor Khafizov
+💻 A relentless coder, on a mission to dominate the tech world.
+🧠 Obsessed with mastering React and pushing the boundaries of web development.
+🦾 Always looking to collaborate on projects that challenge the status quo and drive innovation.
+🚀 My ultimate goal? To become a Full-Stack powerhouse and launch a game-changing tech startup.
+📲 Reach out to me on Instagram if you're ready to make big moves.
